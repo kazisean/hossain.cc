@@ -6,8 +6,8 @@
     <description>Recent content in Categories on Kazi Hossain</description>
     <image>
       <title>Kazi Hossain</title>
-      <url>https://www.hossain.cc/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://www.hossain.cc/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://raw.githubusercontent.com/kazisean/hossain.cc/main/static/meta/twitter_banner.jpeg</url>
+      <link>https://raw.githubusercontent.com/kazisean/hossain.cc/main/static/meta/twitter_banner.jpeg</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language><atom:link href="https://www.hossain.cc/categories/index.xml" rel="self" type="application/rss+xml" />

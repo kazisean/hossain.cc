@@ -1,7 +1,7 @@
 baseURL: "https://www.hossain.cc/"
 title: Kazi Hossain
 paginate: 5
-theme: PaperMod
+theme: LightPaper
 
 enableRobotsTXT: true
 buildDrafts: false
@@ -19,7 +19,7 @@ params:
   title: Kazi Hossain
   description: "ExampleSite description"
   keywords: [Blog, Portfolio, PaperMod]
-  author: ["Aditya Telange", "Kazi Hossain"]
+  author: ["Kazi Hossain"]
   # author: ["Me", "You"] # multiple authors
   images: ["https://raw.githubusercontent.com/kazisean/hossain.cc/main/static/meta/twitter_banner.jpeg"]
   DateFormat: "January 2, 2006"
@@ -53,22 +53,22 @@ params:
 
   label:
     text: "Kazi"
-    icon: /apple-touch-icon.png
-    iconHeight: 35
+    icon: https://i.stack.imgur.com/IHkFN.gif
+    iconHeight: 40
 
   # profile-mode
   profileMode:
-    enabled: false # needs to be explicitly set
-    title: Kazi
-    subtitle: "This is subtitle"
-    imageUrl: "<img location>"
+    enabled: true # needs to be explicitly set
+    title: Kazi Hossain
+    subtitle: "CS & Math"
+    imageUrl: "https://i.pinimg.com/564x/73/8f/f2/738ff21d48adbdf664fcbc26f4cde532.jpg"
     imageWidth: 120
     imageHeight: 120
-    imageTitle: my image
+    imageTitle: Profile Picture of Kazi Hossain from his Personal Website and Blog 
     buttons:
-      - name: Posts
+      - name: All Posts
         url: posts
-      - name: Tags
+      - name: Topics
         url: tags
 
   # home-info mode
@@ -114,18 +114,42 @@ params:
     keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
-    - identifier: categories
-      name: categories
-      url: /categories/
+    - identifier: search
+      name: Search
+      url: /search/
       weight: 10
-    - identifier: tags
-      name: tags
-      url: /tags/
+    - identifier: archive
+      name: Archive
+      url: /archive/
       weight: 20
-    - identifier: example
-      name: example.org
-      url: https://example.org
+    - identifier: topics
+      name: Topics
+      url: /topics/
       weight: 30
+    - identifier: notes
+      name: Notes
+      url: /notes/
+      weight: 40
+    # - identifier: essay
+    #   name: Essays
+    #   url: /essays/
+    #   weight: 50
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 60
+    - identifier: misc
+      name: Misc
+      url: /misc/
+      weight: 70
+    - identifier: links
+      name: Links
+      url: /links/
+      weight: 80
+    - identifier: resume
+      name: Resume
+      url: https://docs.google.com/document/d/1IIdcXNndISbdxxlpmxCA7mzGAVtlZCmf1EX3XUoQYoA/
+      weight: 80
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:
