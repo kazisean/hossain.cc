@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Kazi Hossain</title>
+    <link>https://www.hossain.cc/posts/</link>
+    <description>Recent content in Posts on Kazi Hossain</description>
+    <image>
+      <title>Kazi Hossain</title>
+      <url>https://raw.githubusercontent.com/kazisean/hossain.cc/main/static/meta/twitter_banner.jpeg</url>
+      <link>https://raw.githubusercontent.com/kazisean/hossain.cc/main/static/meta/twitter_banner.jpeg</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 15 Nov 2023 15:49:08 -0500</lastBuildDate><atom:link href="https://www.hossain.cc/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Data_structure_algo_java</title>
+      <link>https://www.hossain.cc/posts/data_structure_algo_java/</link>
+      <pubDate>Wed, 15 Nov 2023 15:49:08 -0500</pubDate>
+      
+      <guid>https://www.hossain.cc/posts/data_structure_algo_java/</guid>
+      <description>calculus note</description>
+    </item>
+    
+    <item>
+      <title>Calculus_notes</title>
+      <link>https://www.hossain.cc/posts/calculus_notes/</link>
+      <pubDate>Wed, 15 Nov 2023 15:48:50 -0500</pubDate>
+      
+      <guid>https://www.hossain.cc/posts/calculus_notes/</guid>
+      <description>calculus notes</description>
+    </item>
+    
+  </channel>
+</rss>

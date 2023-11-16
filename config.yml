@@ -77,12 +77,13 @@ params:
     Content: Welcome to my blog
 
   socialIcons:
-    - name: twitter
-      url: "https://twitter.com/"
-    - name: stackoverflow
-      url: "https://stackoverflow.com"
+    - name: cv
+      url: "https://docs.google.com/document/d/1IIdcXNndISbdxxlpmxCA7mzGAVtlZCmf1EX3XUoQYoA/"
     - name: github
-      url: "https://github.com/"
+      url: "https://github.com/kazisean"
+    - name: rss
+      url: "#"
+
 
   analytics:
     google:
@@ -98,7 +99,7 @@ params:
     hiddenInSingle: true # hide on single page
 
   editPost:
-    URL: "https://github.com/<path_to_repo>/content"
+    URL: "https://github.com/kazisean/hossain.cc/tree/main/content"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 
@@ -119,37 +120,38 @@ menu:
       url: /search/
       weight: 10
     - identifier: archive
-      name: Archive
-      url: /archive/
+      name: All Post
+      url: /posts/
       weight: 20
     - identifier: topics
       name: Topics
-      url: /topics/
+      url: /tags/
       weight: 30
     - identifier: notes
       name: Notes
       url: /notes/
       weight: 40
-    # - identifier: essay
-    #   name: Essays
-    #   url: /essays/
-    #   weight: 50
+    - identifier: essay
+      name: Essay
+      url: /essay/
+      weight: 50
     - identifier: about
       name: About
       url: /about/
-      weight: 60
+      weight: 80
     - identifier: misc
       name: Misc
       url: /misc/
-      weight: 70
+      weight: 60
     - identifier: links
       name: Links
       url: /links/
-      weight: 80
-    - identifier: resume
-      name: Resume
-      url: https://docs.google.com/document/d/1IIdcXNndISbdxxlpmxCA7mzGAVtlZCmf1EX3XUoQYoA/
-      weight: 80
+      weight: 70
+    # - identifier: resume
+    #   name: Resume
+    #   url: https://docs.google.com/document/d/1IIdcXNndISbdxxlpmxCA7mzGAVtlZCmf1EX3XUoQYoA/
+    #   weight: 80
+
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:
