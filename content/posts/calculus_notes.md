@@ -1,79 +1,99 @@
 +++
-title = 'Calculus Notes'
-description = 'My Calculus I notes on various topic such as review of precalculus, linearization and differentials, limits, Exponential, Logarithmic function.'
+title = 'Calculus I Notes'
+description = 'My notes on calc 1 with Psets'
 date = 2023-11-15T15:48:50-05:00
 draft = false
 math = true
+ShowToc = true
 +++
 
+<!-- Calculus cover image -->
+
+{{< figure align=center alt="Kazi Hossain picture of two people studying on the desk while a cats and two dogs are staring at them" src="/calc/calc_main.jpg" >}}
+
+<!-- Calculus cover image -->
 
 
-## 1. Linearization and Differentials
-$x = {-b \pm \sqrt{b^2-4ac} \over 2a}$
-
-
-### Tangent line to approximate function values
-### Differentials to estimate the difference between actual and approximated function values.
-
-
-## 2. Exponential Functions
-
-### Review of precalculus: algebraic, graphical properties of exponentials and logs
-### Limits of expressions involving exponentials and logs
-
-
-## 3. Logarithmic Functions
-
-### Inverse function theorem
-### 
-
-
-## 4. Exponential and Logarithmic Functions
-
-### Derivatives of exponentials and logs
-### Logarithmic differentiation
+## Linearization and Differentials
 
 
 
-## 5. Inverse Trigonometric Functions
-
-### Review algebraic, graphical properties of inverse trig functions
-### Learn derivatives of inverse trig functions
 
 
-## 6. L’Hospital’s Rule
+Tangent line to approximate function values  {{< line_break >}}
 
-### Recognizing indeterminate forms
-### L’Hospital’s Rule to find the limit
-### Use algebra to maneuver expressions to put them into a form where L’Hospital’s Rule can be applied
+Differentials to estimate the difference between actual and approximated function values. {{< line_break >}}
 
 
-## 7. Maximum and Minimum Values
+## Exponential Functions
 
-### Absolute versus Local max/min
-### The Extreme Value Theorem
-### Critical numbers
-### The Closed Interval Method
+Review of precalculus: algebraic, graphical properties of exponentials and logs {{< line_break >}}
 
-
-## 8. Mean Value Theorem
-
-### Rolle’s Theorem
-### The Mean Value Theorem
+Limits of expressions involving exponentials and logs {{< line_break >}}
 
 
+## Logarithmic Functions
 
-## 9. Derivatives and Shapes of Graphs
+Inverse function theorem {{< line_break >}}
+
+
+## Exponential and Logarithmic Functions
+
+Derivatives of exponentials and logs {{< line_break >}}
+
+Logarithmic differentiation {{< line_break >}}
 
 
 
-### Increasing/Decreasing Test
-### The first derivative test
-### Concavity and inflection points
-### Second derivative test
+## Inverse Trigonometric Functions
+
+Review algebraic, graphical properties of inverse trig functions {{< line_break >}}
+
+Learn derivatives of inverse trig functions {{< line_break >}}
 
 
-## 10. Curve Sketching
+## L’Hospital’s Rule
 
-### Putting everything together to sketch accurate graphs
+Recognizing indeterminate forms {{< line_break >}}
+
+L’Hospital’s Rule to find the limit {{< line_break >}}
+
+Use algebra to maneuver expressions to put them into a form where L’Hospital’s Rule can be applied {{< line_break >}}
+
+
+## Maximum and Minimum Values
+
+Absolute versus Local max/min {{< line_break >}}
+
+The Extreme Value Theorem {{< line_break >}}
+
+Critical numbers {{< line_break >}}
+
+The Closed Interval Method {{< line_break >}}
+
+
+## Mean Value Theorem
+
+Rolle’s Theorem {{< line_break >}}
+
+The Mean Value Theorem {{< line_break >}}
+
+
+
+## Derivatives and Shapes of Graphs
+
+
+
+Increasing/Decreasing Test {{< line_break >}}
+
+The first derivative test {{< line_break >}}
+
+Concavity and inflection points {{< line_break >}}
+
+Second derivative test {{< line_break >}}
+
+
+## Curve Sketching
+
+Putting everything together to sketch accurate graphs {{< line_break >}}
 

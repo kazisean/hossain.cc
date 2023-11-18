@@ -13,21 +13,30 @@
     <language>en</language>
     <lastBuildDate>Wed, 15 Nov 2023 15:49:08 -0500</lastBuildDate><atom:link href="https://www.hossain.cc/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Data_structure_algo_java</title>
+      <title>Data Structure and Algorithms in Java</title>
       <link>https://www.hossain.cc/posts/data_structure_algo_java/</link>
       <pubDate>Wed, 15 Nov 2023 15:49:08 -0500</pubDate>
       
       <guid>https://www.hossain.cc/posts/data_structure_algo_java/</guid>
-      <description>calculus note</description>
+      <description>My notes on DS with included practice problems</description>
     </item>
     
     <item>
-      <title>Calculus_notes</title>
+      <title>Calculus I Notes</title>
       <link>https://www.hossain.cc/posts/calculus_notes/</link>
       <pubDate>Wed, 15 Nov 2023 15:48:50 -0500</pubDate>
       
       <guid>https://www.hossain.cc/posts/calculus_notes/</guid>
-      <description>calculus notes</description>
+      <description>My notes on calc 1 with Psets</description>
+    </item>
+    
+    <item>
+      <title>Learning Mathematics ?!??</title>
+      <link>https://www.hossain.cc/posts/my-first-post/</link>
+      <pubDate>Tue, 14 Nov 2023 21:57:41 -0500</pubDate>
+      
+      <guid>https://www.hossain.cc/posts/my-first-post/</guid>
+      <description> </description>
     </item>
     
   </channel>

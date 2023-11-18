@@ -12,7 +12,7 @@ hideMeta: true
 
 ---
 
-Welcome to my digital garden here are all my notes on various different topics / subjects : 
+Welcome to my notes section here are all my notes on various different topics / subjects : 
  
 
 Mathematics :
