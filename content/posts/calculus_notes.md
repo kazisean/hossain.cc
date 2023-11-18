@@ -82,9 +82,18 @@ The Mean Value Theorem {{< line_break >}}
 
 ## Derivatives and Shapes of Graphs
 
+Q : How to determine if a graph is increasing / decreasing given graph a of f'(x) {{< line_break >}}
+
+```BibTeX
+1. Draw tangent lines along the curve of the given graph
+2. Check if the slope is positve or negative 
+3. If the slope is postive the graph is increasing on that interval vice versa 
+```
 
 
-Increasing/Decreasing Test {{< line_break >}}
+
+
+
 
 The first derivative test {{< line_break >}}
 
