@@ -15,8 +15,18 @@ ShowToc = true
 
 
 ## Linearization and Differentials
+This is used to estimate values of a complex problem, for example the value of $\sqrt{3.92}$ without ever using a calculator. With the help of Linear Approximation we could get an answer very close to the actual value.
 
+**Formula for Linear Approximation :**
+$$f(x) \approx f(a) + f'(a)(x - a)$$
 
+**Steps to find the linear approximation :** 
+
+```BibTeX
+1. Draw tangent lines along the curve of the given graph
+2. Check if the slope is positve or negative 
+3. If the slope is postive the graph is increasing on that interval vice versa 
+```
 
 
 
