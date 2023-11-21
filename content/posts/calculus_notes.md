@@ -20,13 +20,22 @@ This is used to estimate values of a complex problem, for example the value of $
 **Formula for Linear Approximation :**
 $$f(x) \approx f(a) + f'(a)(x - a)$$
 
-**Steps to find the linear approximation :** 
+**Steps to find the linear approximation :** {{< line_break >}}
+
+**P**oint  **S**lope   **T**angent Line   **E**stimate  
 
 ```BibTeX
-1. Draw tangent lines along the curve of the given graph
-2. Check if the slope is positve or negative 
-3. If the slope is postive the graph is increasing on that interval vice versa 
+1. Find the point y by plugging into equation (as a whole number) or close to
+2. Calculate the slope at that point by taking the derivative.
+3. Write the equation of the tangent line in the point slope form.
+4. Evaluate the tangent line to estimate nearby point
 ```
+
+---
+#### Example : 
+
+
+---
 
 
 
