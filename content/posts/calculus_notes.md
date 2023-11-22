@@ -18,7 +18,7 @@ ShowToc = true
 This is used to estimate values of a complex problem, for example the value of $\sqrt{3.92}$ without ever using a calculator. With the help of Linear Approximation we could get an answer very close to the actual value.
 
 **Formula for Linear Approximation :**
-$$f(x) \approx f(a) + f'(a)(x - a)$$
+$$L(x) \approx f(a) + f'(a)(x - a)$$
 
 **Steps to find the linear approximation :** {{< line_break >}}
 
@@ -31,11 +31,12 @@ $$f(x) \approx f(a) + f'(a)(x - a)$$
 4. Evaluate the tangent line to estimate nearby point
 ```
 
----
 #### Example : 
 
+Max Error {{< line_break >}}
 
----
+
+Relative Error {{< line_break >}}
 
 
 
@@ -43,6 +44,7 @@ Tangent line to approximate function values  {{< line_break >}}
 
 Differentials to estimate the difference between actual and approximated function values. {{< line_break >}}
 
+---
 
 ## Exponential Functions
 
