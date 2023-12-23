@@ -80,8 +80,10 @@ params:
       url: "https://docs.google.com/document/d/1IIdcXNndISbdxxlpmxCA7mzGAVtlZCmf1EX3XUoQYoA/"
     - name: github
       url: "https://github.com/kazisean"
+    # - name: email
+    #   url: "maiilto:kazi.h@nyu.edu"
     - name: rss
-      url: "#"
+      url: "https://www.hossain.cc/sitemap.xml"
 
 
   analytics:
