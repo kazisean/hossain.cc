@@ -18,7 +18,7 @@
       <pubDate>Wed, 15 Nov 2023 15:49:08 -0500</pubDate>
       
       <guid>https://www.hossain.cc/posts/data_structure_algo_java/</guid>
-      <description>My notes on DS with included practice problems</description>
+      <description>My notes on DS in java with included practice problems</description>
     </item>
     
     <item>
@@ -32,10 +32,10 @@
     
     <item>
       <title>Learning Mathematics ?!??</title>
-      <link>https://www.hossain.cc/posts/my-first-post/</link>
+      <link>https://www.hossain.cc/posts/learn_math/</link>
       <pubDate>Tue, 14 Nov 2023 21:57:41 -0500</pubDate>
       
-      <guid>https://www.hossain.cc/posts/my-first-post/</guid>
+      <guid>https://www.hossain.cc/posts/learn_math/</guid>
       <description> </description>
     </item>
     
@@ -46,6 +46,15 @@
       
       <guid>https://www.hossain.cc/about/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.hossain.cc/future/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.hossain.cc/future/</guid>
+      <description>Welcome to future</description>
     </item>
     
     <item>

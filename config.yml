@@ -52,14 +52,14 @@ params:
 
   label:
     text: "Kazi"
-    icon: https://raw.githubusercontent.com/kazisean/hossain.cc/main/static/logo.gif
+    icon: 
     iconHeight: 40
 
   # profile-mode
   profileMode:
     enabled: true # needs to be explicitly set
     title: Kazi Hossain
-    subtitle: "CS & Math"
+    subtitle: "I’m a CS student @ New York University."
     imageUrl: "https://i.pinimg.com/564x/73/8f/f2/738ff21d48adbdf664fcbc26f4cde532.jpg"
     imageWidth: 120
     imageHeight: 120
@@ -130,9 +130,9 @@ menu:
       name: Notes
       url: /notes/
       weight: 40
-    - identifier: essay
-      name: Essay
-      url: /essay/
+    - identifier: Projects
+      name: Projects
+      url: /future/
       weight: 50
     - identifier: about
       name: About
