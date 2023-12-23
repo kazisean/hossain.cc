@@ -12,6 +12,8 @@
     line-height: 24px;
 }
 
+
+
 .footer span {
     margin-inline-start: 1px;
     margin-inline-end: 1px;
@@ -19,6 +21,11 @@
 
 .footer span:last-child {
     white-space: nowrap;
+}
+
+.footer.last-update{
+    text-align: left;
+    font-weight: bold;
 }
 
 .footer a {

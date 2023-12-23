@@ -52,7 +52,7 @@ params:
 
   label:
     text: "Kazi"
-    icon: 
+    icon:  
     iconHeight: 40
 
   # profile-mode
@@ -86,7 +86,7 @@ params:
 
   analytics:
     google:
-      SiteVerificationTag: "XYZabc"
+      SiteVerificationTag: "h9unPlnjf006WcSUHEy_Ra2GawD6Ws8vyZs3KnDVeXM"
     bing:
       SiteVerificationTag: "XYZabc"
     yandex:
@@ -122,17 +122,17 @@ menu:
       name: All Post
       url: /posts/
       weight: 20
-    - identifier: topics
-      name: Topics
-      url: /tags/
-      weight: 30
+    # - identifier: topics
+    #   name: Topics
+    #   url: /tags/
+    #   weight: 30
     - identifier: notes
       name: Notes
       url: /notes/
       weight: 40
     - identifier: Projects
       name: Projects
-      url: /future/
+      url: /work/
       weight: 50
     - identifier: about
       name: About
@@ -148,7 +148,7 @@ menu:
       weight: 70
     # - identifier: resume
     #   name: Resume
-    #   url: https://docs.google.com/document/d/1IIdcXNndISbdxxlpmxCA7mzGAVtlZCmf1EX3XUoQYoA/
+    #   url: 
     #   weight: 80
 
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma

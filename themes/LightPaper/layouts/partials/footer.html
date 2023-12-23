@@ -1,8 +1,23 @@
 {{- if not (.Param "hideFooter") }}
 <footer class="footer">
+
+
     {{- if site.Copyright }}
     <span>{{ site.Copyright | markdownify }}</span>
     {{- else }}
+
+    {{ $date := .Date.Format "01.02.2006" }}
+    {{ $lastmod := .Lastmod.Format "01.02.2006" }}
+
+    <span class="last-update"> Last updated {{ .Lastmod.Format "01.02.2006" }}</span>
+
+
+
+
+
+    <!-- <span><a>Last updated 11/21/2023</a></span> -->
+
+    
     <span>&copy; <a href="#" target="_blank">MMXXIII kh.</a></span>
     {{- end }}
 </footer>
