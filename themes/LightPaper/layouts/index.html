@@ -1,0 +1,88 @@
+{{ define "main" }}
+  {{- with site.Params.homeInfoParams }}
+
+  <style>
+
+    /* Align the profile picture to the right */
+    .profile-pic {
+        position: absolute; /* Set to absolute position */
+        top: 40px; /* Adjust the top position as needed */
+        right: 10px; /* Adjust the right position as needed */
+        border-radius: 50%;
+        max-width: 25%;
+        height: auto;
+        margin-bottom: 10px;
+        z-index: 999; /* Set a high z-index to ensure it's on top */
+        transition: transform 0.6s ease;
+    }
+
+    @media (max-width: 761px) {
+      .profile-pic {
+        position: absolute; /* Set to absolute position */
+        top: 30px; /* Adjust the top position as needed */
+        right: 10px; /* Adjust the right position as needed */
+        border-radius: 50%;
+        max-width: 20%;
+        height: auto;
+        margin-bottom: 10px;
+        z-index: 999; /* Set a high z-index to ensure it's on top */
+      }
+    }
+
+
+     /* Hide the profile picture on screens smaller than 502px */
+     @media (max-width: 502px) {
+      .profile-pic {
+        display: none;
+      }
+    }
+
+    /* Flip effect on hover */
+    .profile-pic:hover {
+        transform: rotateY(180deg); /* Adjust the rotation angle as needed */
+    }
+
+    /* Clear the float to prevent layout issues */
+    .text-content::after {
+        content: "";
+        display: table;
+        clear: both;
+    }
+
+
+</style>
+
+    <article class="first-entry home-info">
+        <header class="entry-header">
+            <div class="header-content">
+                <div class="text-content">
+                    
+                    <img class="profile-pic" src="https://i.pinimg.com/564x/73/8f/f2/738ff21d48adbdf664fcbc26f4cde532.jpg" alt="Kazi Hossain personal blog" >
+
+                    <h4>Hello, this is</h4>
+                    <h1>{{ .Title | markdownify }}</h1>
+                </div>
+            </div>
+        </header>
+        
+        <div class="entry-content">
+            {{ .Content | markdownify }}
+        </div>
+
+
+        <footer class="entry-footer">
+            {{ partial "social_icons.html" site.Params.socialIcons }}
+        </footer>
+
+
+        <div class="home-info">
+
+
+            
+        </div>
+
+
+
+    </article>
+  {{ end }}
+{{ end }}
