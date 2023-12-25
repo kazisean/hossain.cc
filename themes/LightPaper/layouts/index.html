@@ -15,6 +15,57 @@
         z-index: 999; /* Set a high z-index to ensure it's on top */
         transition: transform 0.6s ease;
     }
+    
+    .highlight-b {
+      background-color: rgba(135, 206, 235, 0.5); /* Blue color with 70% opacity */
+      padding: 1px 7px;
+      border-radius: 10px; /* Rounded corners */
+      white-space: nowrap; /* Prevent line breaks */
+  }
+
+  .highlight-p {
+      background-color: rgba(179, 128, 241, 0.4); /* Purple color with 70% opacity */
+      padding: 1px 7px;
+      border-radius: 10px; /* Rounded corners */
+      white-space: nowrap; /* Prevent line breaks */
+  }
+
+  .highlight-r {
+      background-color: rgba(0, 153, 153, 0.4); /* Purple color with 70% opacity */
+      padding: 1px 7px;
+      border-radius: 10px; /* Rounded corners */
+      white-space: nowrap; /* Prevent line breaks */
+  }
+
+  .highlight-leet {
+      background-color: rgba(255, 204, 0, 0.4); /* Purple color with 70% opacity */
+      padding: 1px 7px;
+      border-radius: 10px; /* Rounded corners */
+      white-space: nowrap; /* Prevent line breaks */
+  }
+
+  .highlight-CTF {
+      background-color: rgba(255, 102, 102, 0.4); /* Purple color with 70% opacity */
+      padding: 1px 7px;
+      border-radius: 10px; /* Rounded corners */
+      white-space: nowrap; /* Prevent line breaks */
+  }
+
+  .highlight-diy {
+      background-color: rgba(0, 204, 0, 0.4); /* Purple color with 70% opacity */
+      padding: 1px 7px;
+      border-radius: 10px; /* Rounded corners */
+      white-space: nowrap; /* Prevent line breaks */
+  }
+
+  .highlight-op {
+      background-color: rgba(0, 0, 0, 0.7); /* Purple color with 70% opacity */
+      color: aliceblue;
+      padding: 2px 7px;
+      border-radius: 10px; /* Rounded corners */
+      white-space: nowrap; /* Prevent line breaks */
+  }
+
 
     @media (max-width: 761px) {
       .profile-pic {
@@ -28,6 +79,12 @@
         z-index: 999; /* Set a high z-index to ensure it's on top */
       }
     }
+
+    .last-section li {
+    margin-bottom: 10px; /* Adjust the value as needed */
+    }
+
+    
 
 
      /* Hide the profile picture on screens smaller than 502px */
@@ -49,14 +106,12 @@
         clear: both;
     }
 
-
 </style>
 
     <article class="first-entry home-info">
         <header class="entry-header">
             <div class="header-content">
                 <div class="text-content">
-                    
                     <img class="profile-pic" src="https://i.pinimg.com/564x/73/8f/f2/738ff21d48adbdf664fcbc26f4cde532.jpg" alt="Kazi Hossain personal blog" >
 
                     <h4>Hello, this is</h4>
@@ -64,25 +119,49 @@
                 </div>
             </div>
         </header>
-        
+      
         <div class="entry-content">
             {{ .Content | markdownify }}
         </div>
-
-
+        
         <footer class="entry-footer">
             {{ partial "social_icons.html" site.Params.socialIcons }}
         </footer>
 
-
-        <div class="home-info">
-
-
-            
-        </div>
-
-
+        
 
     </article>
+
+    <div class="home-info">
+
+      <!-- other home page  stuff -->
+      <p>I’m a sophomore at <a href="#" class="highlight-CTF">New York University</a> studying CS and other things. 
+        Currently, working on building tools that I would like to use and can be helpful for others… 
+        trying to build <a href="#" class="highlight-b">the future.</a></p>
+
+
+    </br>
+
+      <p>This is my personal website. Here, you can find most of my musings on tech and ideas that came to me while loafing around.</p>
+
+    </br>
+
+   <div class = "last-section">
+
+    I like to post about: <br>
+
+      <br>
+        <li><a href="#" class="highlight-diy">DIY Projects</a></li>
+        <li><a href="#" class="highlight-b">optimizations</a></li> 
+        <li><a href="#" class="highlight-CTF">CTF write-ups</a></li>
+      <li><a href="#" class="highlight-leet">Leetcode editorial</a></li>
+        <li><a href="#" class="highlight-r">Book Reviews</a></li>
+
+   </div>
+      
+
+            
+    </div>
+
   {{ end }}
 {{ end }}

@@ -59,7 +59,7 @@ params:
   profileMode:
     enabled: false # needs to be explicitly set
     title: Kazi Hossain
-    subtitle: "I’m a CS student @ New York University."
+    subtitle: "Machine learning, Mathematics & Aerospace 🚀"
     imageUrl: "https://i.pinimg.com/564x/73/8f/f2/738ff21d48adbdf664fcbc26f4cde532.jpg"
     imageWidth: 120
     imageHeight: 120
@@ -73,15 +73,13 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "Kazi Hossain."
-    Content: I'm a CS student @New York University
+    Content: Machine Learning, Aerospace and Foss enthusiast.
 
   socialIcons:
     - name: cv
       url: "https://docs.google.com/document/d/1IIdcXNndISbdxxlpmxCA7mzGAVtlZCmf1EX3XUoQYoA/"
     - name: github
       url: "https://github.com/kazisean"
-    # - name: email
-    #   url: "maiilto:kazi.h@nyu.edu"
     - name: rss
       url: "https://www.hossain.cc/sitemap.xml"
 

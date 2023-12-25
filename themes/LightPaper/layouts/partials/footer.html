@@ -1,29 +1,83 @@
 {{- if not (.Param "hideFooter") }}
+
+<style>
+
+        .footer {
+        text-align: center;
+        }
+
+        .footer-content {
+        display: flex;
+        justify-content: space-between;
+        }
+
+        .home-edit {
+        text-align: left;
+        }
+
+        .copyright {
+        text-align: center;
+        }
+
+        .links-footer{
+            text-align: right;
+        }
+
+        ul {
+        list-style-type: none;
+        padding: 0;
+        }
+
+        li {
+        display: inline-block;
+        margin-right: 10px; /* Optional: add some spacing between the list items */
+        }
+
+        .footer-content .links-footer a,
+        
+        .footer-content .home-edit a {
+            border-bottom: none; /* This line removes the underline */
+        }
+
+
+        @media (max-width: 385px) {
+            
+            .home-edit {
+                display: none;
+            }
+
+            
+
+            
+    }
+
+
+</style>
+
+
 <footer class="footer">
-
-
-    {{- if site.Copyright }}
-    <span>{{ site.Copyright | markdownify }}</span>
-    {{- else }}
-
-    {{ $date := .Date.Format "01.02.2006" }}
-    {{ $lastmod := .Lastmod.Format "01.02.2006" }}
-
-    <!-- <span class = "home-edit">Last updated {{ .Lastmod.Format "01.02.2006" }}</span> -->
-
     
+        <div class="footer-content">
+            <span class="home-edit">
 
+              <i> <a style="text-decoration: none" class="clock24" id="tz24-1703466842-su27-eyJob3VydHlwZSI6MTIsInNob3dkYXRlIjoiMCIsInNob3dzZWNvbmRzIjoiMSIsInNob3d0aW1lem9uZSI6IjEiLCJ0eXBlIjoiZCIsImxhbmciOiJlbiJ9" title="Current time in New York">New York</a>
+<script type="text/javascript" src="//w.24timezones.com/l.js" async></script></i>
 
+            </span>
+            <span class ="copyright">&copy; <a href="#" target="_blank">MMXXIII kh.</a></span>
+            <span class="links-footer">
 
+                <ul>
+                    <li><a href="https://github.com/kazisean/hossain.cc" target="_blank">Source</a></li>
+                    <li><a href="https://hossain.cc/sitemap.xml" target="_blank">Sitemap</a></li>
+                </ul>
 
-
-
-    <!-- <span><a>Last updated 11/21/2023</a></span> -->
-
-    
-    <span style="float:center">&copy; <a href="#" target="_blank">MMXXIII kh.</a></span>
-    {{- end }}
+            </span>
+        </div>
+        
 </footer>
+
+
 {{- end }}
 
 {{- if (not site.Params.disableScrollToTop) }}
