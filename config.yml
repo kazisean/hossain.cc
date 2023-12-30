@@ -17,8 +17,8 @@ minify:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Kazi Hossain
-  description: "ExampleSite description"
-  keywords: [Blog, Portfolio, PaperMod]
+  description: "Kazi Hossain personal website"
+  keywords: [Kazi Hossain, kazi hossain personal website, Kazi Hossain Blog, Kazi Hossain NYU, Kazi Hossain Projects, personal website]
   author: ["Kazi Hossain"]
   # author: ["Me", "You"] # multiple authors
   images: ["https://raw.githubusercontent.com/kazisean/hossain.cc/main/static/meta/twitter_banner.jpeg"]
@@ -55,6 +55,7 @@ params:
     icon:  
     iconHeight: 40
 
+
   # profile-mode
   profileMode:
     enabled: false # needs to be explicitly set
@@ -88,10 +89,8 @@ params:
     google:
       SiteVerificationTag: "h9unPlnjf006WcSUHEy_Ra2GawD6Ws8vyZs3KnDVeXM"
     bing:
-      SiteVerificationTag: "XYZabc"
-    yandex:
-      SiteVerificationTag: "XYZabc"
-
+      SiteVerificationTag: "FE80A8C0F4A25DC1D8CD653BED312738"
+   
   cover:
     hidden: true # hide everywhere but not in structured data
     hiddenInList: true # hide on list pages and home
