@@ -58,4 +58,4 @@ SOFTWARE.
 
 ```
 
-[**CC-BY-SA-4.0**](https://creativecommons.org/licenses/by-sa/4.0/) applies for all the content under: `/blog/`, `/notes/` unless otherwise specified. 
+[**CC-BY-SA-4.0**](https://creativecommons.org/licenses/by-sa/4.0/) applies for all the content under: `/blog/` unless otherwise specified. 

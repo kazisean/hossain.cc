@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Notes on Kazi Hossain</title>
+    <link>https://www.hossain.cc/notes/</link>
+    <description>Recent content in Notes on Kazi Hossain</description>
+    <image>
+      <title>Kazi Hossain</title>
+      <url>https://raw.githubusercontent.com/kazisean/hossain.cc/main/static/meta/twitter_banner.jpeg</url>
+      <link>https://raw.githubusercontent.com/kazisean/hossain.cc/main/static/meta/twitter_banner.jpeg</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 31 Dec 2023 08:53:10 -0500</lastBuildDate><atom:link href="https://www.hossain.cc/notes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Latex</title>
+      <link>https://www.hossain.cc/notes/latex/</link>
+      <pubDate>Sun, 31 Dec 2023 08:53:10 -0500</pubDate>
+      
+      <guid>https://www.hossain.cc/notes/latex/</guid>
+      <description>hello how are you</description>
+    </item>
+    
+    <item>
+      <title>Discrete Math Notes</title>
+      <link>https://www.hossain.cc/notes/discrete-math/</link>
+      <pubDate>Sun, 31 Dec 2023 08:53:03 -0500</pubDate>
+      
+      <guid>https://www.hossain.cc/notes/discrete-math/</guid>
+      <description>hello</description>
+    </item>
+    
+  </channel>
+</rss>

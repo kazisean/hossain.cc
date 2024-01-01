@@ -84,7 +84,6 @@ params:
     - name: rss
       url: "https://www.hossain.cc/sitemap.xml"
 
-
   analytics:
     google:
       SiteVerificationTag: "h9unPlnjf006WcSUHEy_Ra2GawD6Ws8vyZs3KnDVeXM"
