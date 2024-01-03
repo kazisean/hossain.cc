@@ -29,3 +29,18 @@ Never publish or consider a writing is finished on the first draft. Rewrite afte
 LaTeX is most popular in writing discrete math papers.
 
 
+`Even` : An integer is even if it is divisible by two without any remainders.
+This for example is a bad statement because we have not yet defined the meaning divisible.
+
+`Divisible` : Let *a* and *b* be integers where *a* is   
+
+
+
+
+$\mathbb{Z}$ : This symbol represents integers. To draw this symbol do not draw a Z and retrace. Do the following : Draw a 7 after which draw another z upside down
+
+
+aa
+
+
+
