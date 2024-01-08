@@ -12,4 +12,4 @@ hideMeta: true
 
 ---
 
-Welcome to future
+coming soon!

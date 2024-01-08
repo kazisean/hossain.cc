@@ -18,15 +18,6 @@
       <pubDate>Sun, 31 Dec 2023 08:53:10 -0500</pubDate>
       
       <guid>https://www.hossain.cc/notes/latex/</guid>
-      <description>hello how are you</description>
-    </item>
-    
-    <item>
-      <title>Discrete Math Notes</title>
-      <link>https://www.hossain.cc/notes/discrete-math/</link>
-      <pubDate>Sun, 31 Dec 2023 08:53:03 -0500</pubDate>
-      
-      <guid>https://www.hossain.cc/notes/discrete-math/</guid>
       <description>hello</description>
     </item>
     
@@ -40,12 +31,39 @@
     </item>
     
     <item>
+      <title>C Programming Language</title>
+      <link>https://www.hossain.cc/notes/c-programming/</link>
+      <pubDate>Wed, 15 Nov 2023 15:48:50 -0500</pubDate>
+      
+      <guid>https://www.hossain.cc/notes/c-programming/</guid>
+      <description>My notes on C</description>
+    </item>
+    
+    <item>
       <title>Calculus I Notes</title>
       <link>https://www.hossain.cc/posts/calculus_notes/</link>
       <pubDate>Wed, 15 Nov 2023 15:48:50 -0500</pubDate>
       
       <guid>https://www.hossain.cc/posts/calculus_notes/</guid>
       <description>My notes on calc 1 with Psets</description>
+    </item>
+    
+    <item>
+      <title>Computer System Organization</title>
+      <link>https://www.hossain.cc/notes/cso/</link>
+      <pubDate>Wed, 15 Nov 2023 15:48:50 -0500</pubDate>
+      
+      <guid>https://www.hossain.cc/notes/cso/</guid>
+      <description>My notes on Computer System Organization</description>
+    </item>
+    
+    <item>
+      <title>Discrete Math</title>
+      <link>https://www.hossain.cc/notes/discrete-math/</link>
+      <pubDate>Wed, 15 Nov 2023 15:48:50 -0500</pubDate>
+      
+      <guid>https://www.hossain.cc/notes/discrete-math/</guid>
+      <description>My notes on Discrete Math</description>
     </item>
     
     <item>
@@ -123,7 +141,7 @@ Calculus I Notes</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.hossain.cc/work/</guid>
-      <description>Welcome to future</description>
+      <description>coming soon!</description>
     </item>
     
   </channel>
