@@ -22,16 +22,7 @@
     </item>
     
     <item>
-      <title></title>
-      <link>https://www.hossain.cc/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.hossain.cc/about/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
+      <title>Copyright &amp; Tech Stack</title>
       <link>https://www.hossain.cc/builtwith/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -44,16 +35,16 @@ MIT License Copyright (c) 2023 - 2024 Kazi Hossain Permission is hereby granted,
     </item>
     
     <item>
-      <title></title>
+      <title>Future</title>
       <link>https://www.hossain.cc/future/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.hossain.cc/future/</guid>
-      <description></description>
+      <description>Coming soon!!</description>
     </item>
     
     <item>
-      <title></title>
+      <title>Links</title>
       <link>https://www.hossain.cc/links/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -66,21 +57,21 @@ Calculus I • Paul&amp;rsquo;s Calculus notes • Calculus video guides</descri
     </item>
     
     <item>
-      <title></title>
-      <link>https://www.hossain.cc/projects/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.hossain.cc/projects/</guid>
-      <description>coming soon!</description>
-    </item>
-    
-    <item>
       <title>Miscellaneous</title>
       <link>https://www.hossain.cc/misc/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.hossain.cc/misc/</guid>
-      <description>Miscellaneous • 🔭 Current Project: A privacy focused lightweight browser Clara • 🖥 System: Arch Linux • 🪐 IDE: Learning to use Vim • 📺 Fav Movie/Shows: The Silent Sea | The Social Network | Interstellar | Ex Machina</description>
+      <description>• 🔭 Current Project: A privacy focused lightweight browser Clara • 🖥 System: Arch Linux • 🪐 IDE: Learning to use Vim • 📺 Fav Movie/Shows: The Silent Sea | The Social Network | Interstellar | Ex Machina</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://www.hossain.cc/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.hossain.cc/projects/</guid>
+      <description>coming soon!</description>
     </item>
     
     

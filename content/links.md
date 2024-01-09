@@ -9,6 +9,7 @@ ShowReadingTime: false
 disableShare: true
 ShowBreadCrumbs: false
 hideMeta: true
+searchHidden: true
 ---
 
 ![Anime boy sitting in a computer lab](/single/Sitting%20in%20a%20computer%20lab.jpg)

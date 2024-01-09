@@ -9,7 +9,7 @@ ShowReadingTime: false
 disableShare: true
 ShowBreadCrumbs: false
 hideMeta: true
-
+searchHidden: true
 ---
 
 coming soon!
