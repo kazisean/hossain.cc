@@ -78,7 +78,9 @@ params:
 
   socialIcons:
     - name: cv
-      url: "https://docs.google.com/document/d/1IIdcXNndISbdxxlpmxCA7mzGAVtlZCmf1EX3XUoQYoA/"
+      url: "#"
+    - name: email
+      url: mailto:kazi.h[at]nyu.edu
     - name: github
       url: "https://github.com/kazisean"
     - name: rss

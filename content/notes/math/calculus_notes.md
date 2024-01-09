@@ -2,7 +2,7 @@
 title = 'Calculus I Notes'
 description = 'My notes on calc 1 with Psets'
 date = 2023-11-15T15:48:50-05:00
-draft = false
+draft = true
 math = true
 ShowToc = true
 +++

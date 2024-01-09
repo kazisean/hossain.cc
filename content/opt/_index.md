@@ -1,4 +1,4 @@
 +++
 title = 'Optimizations'
-description = 'Collection of Optimization for Windows, MAC and Servers'
+description = 'Collection of optimizations for Windows, MAC and Servers'
 +++

@@ -10,71 +10,7 @@
       <link>https://raw.githubusercontent.com/kazisean/hossain.cc/main/static/meta/twitter_banner.jpeg</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Sun, 31 Dec 2023 08:53:10 -0500</lastBuildDate><atom:link href="https://www.hossain.cc/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Latex</title>
-      <link>https://www.hossain.cc/notes/latex/</link>
-      <pubDate>Sun, 31 Dec 2023 08:53:10 -0500</pubDate>
-      
-      <guid>https://www.hossain.cc/notes/latex/</guid>
-      <description>hello</description>
-    </item>
-    
-    <item>
-      <title>Data Structure and Algorithms in Java</title>
-      <link>https://www.hossain.cc/posts/data_structure_algo_java/</link>
-      <pubDate>Wed, 15 Nov 2023 15:49:08 -0500</pubDate>
-      
-      <guid>https://www.hossain.cc/posts/data_structure_algo_java/</guid>
-      <description>My notes on DS in java with included practice problems</description>
-    </item>
-    
-    <item>
-      <title>C Programming Language</title>
-      <link>https://www.hossain.cc/notes/c-programming/</link>
-      <pubDate>Wed, 15 Nov 2023 15:48:50 -0500</pubDate>
-      
-      <guid>https://www.hossain.cc/notes/c-programming/</guid>
-      <description>My notes on C</description>
-    </item>
-    
-    <item>
-      <title>Calculus I Notes</title>
-      <link>https://www.hossain.cc/posts/calculus_notes/</link>
-      <pubDate>Wed, 15 Nov 2023 15:48:50 -0500</pubDate>
-      
-      <guid>https://www.hossain.cc/posts/calculus_notes/</guid>
-      <description>My notes on calc 1 with Psets</description>
-    </item>
-    
-    <item>
-      <title>Computer System Organization</title>
-      <link>https://www.hossain.cc/notes/cso/</link>
-      <pubDate>Wed, 15 Nov 2023 15:48:50 -0500</pubDate>
-      
-      <guid>https://www.hossain.cc/notes/cso/</guid>
-      <description>My notes on Computer System Organization</description>
-    </item>
-    
-    <item>
-      <title>Discrete Math</title>
-      <link>https://www.hossain.cc/notes/discrete-math/</link>
-      <pubDate>Wed, 15 Nov 2023 15:48:50 -0500</pubDate>
-      
-      <guid>https://www.hossain.cc/notes/discrete-math/</guid>
-      <description>My notes on Discrete Math</description>
-    </item>
-    
-    <item>
-      <title>Learning Mathematics ?!??</title>
-      <link>https://www.hossain.cc/posts/learn_math/</link>
-      <pubDate>Tue, 14 Nov 2023 21:57:41 -0500</pubDate>
-      
-      <guid>https://www.hossain.cc/posts/learn_math/</guid>
-      <description> </description>
-    </item>
-    
+    <language>en</language><atom:link href="https://www.hossain.cc/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
       <link>https://www.hossain.cc/about/</link>
@@ -112,7 +48,11 @@ MIT License Copyright (c) 2023 - 2024 Kazi Hossain Permission is hereby granted,
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.hossain.cc/links/</guid>
-      <description></description>
+      <description>My collection of bookmarkes including various resources used in my notes categorized by topics
+Machine Learning • Karpathy’s Machine Learning Course • The Novice&amp;rsquo;s LLM Training Guide • Machine Learning Interview Book
+Data structure • Data Structure With Abdul Bari • NeetCode
+Internship ~ Jobs • YC Hiring List • Summer 2024 Tech Internships • Crunchbase
+Calculus I • Paul&amp;rsquo;s Calculus notes • Calculus video guides</description>
     </item>
     
     <item>
@@ -121,7 +61,7 @@ MIT License Copyright (c) 2023 - 2024 Kazi Hossain Permission is hereby granted,
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.hossain.cc/misc/</guid>
-      <description></description>
+      <description>Miscellaneous • 🔭 Current Project: A privacy focused lightweight browser Clara • 🖥 System: Arch Linux • 🪐 IDE: Learning to use Vim • 📺 Fav Movie/Shows: The Silent Sea | The Social Network | Interstellar | Ex Machina</description>
     </item>
     
     <item>

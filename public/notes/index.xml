@@ -10,43 +10,6 @@
       <link>https://raw.githubusercontent.com/kazisean/hossain.cc/main/static/meta/twitter_banner.jpeg</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Sun, 31 Dec 2023 08:53:10 -0500</lastBuildDate><atom:link href="https://www.hossain.cc/notes/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Latex</title>
-      <link>https://www.hossain.cc/notes/latex/</link>
-      <pubDate>Sun, 31 Dec 2023 08:53:10 -0500</pubDate>
-      
-      <guid>https://www.hossain.cc/notes/latex/</guid>
-      <description>hello</description>
-    </item>
-    
-    <item>
-      <title>C Programming Language</title>
-      <link>https://www.hossain.cc/notes/c-programming/</link>
-      <pubDate>Wed, 15 Nov 2023 15:48:50 -0500</pubDate>
-      
-      <guid>https://www.hossain.cc/notes/c-programming/</guid>
-      <description>My notes on C</description>
-    </item>
-    
-    <item>
-      <title>Computer System Organization</title>
-      <link>https://www.hossain.cc/notes/cso/</link>
-      <pubDate>Wed, 15 Nov 2023 15:48:50 -0500</pubDate>
-      
-      <guid>https://www.hossain.cc/notes/cso/</guid>
-      <description>My notes on Computer System Organization</description>
-    </item>
-    
-    <item>
-      <title>Discrete Math</title>
-      <link>https://www.hossain.cc/notes/discrete-math/</link>
-      <pubDate>Wed, 15 Nov 2023 15:48:50 -0500</pubDate>
-      
-      <guid>https://www.hossain.cc/notes/discrete-math/</guid>
-      <description>My notes on Discrete Math</description>
-    </item>
-    
+    <language>en</language><atom:link href="https://www.hossain.cc/notes/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

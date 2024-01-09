@@ -2,36 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.hossain.cc/</loc>
-    <lastmod>2023-12-31T08:53:10-05:00</lastmod>
-  </url><url>
-    <loc>https://www.hossain.cc/notes/latex/</loc>
-    <lastmod>2023-12-31T08:53:10-05:00</lastmod>
-  </url><url>
-    <loc>https://www.hossain.cc/notes/</loc>
-    <lastmod>2023-12-31T08:53:10-05:00</lastmod>
-  </url><url>
-    <loc>https://www.hossain.cc/posts/data_structure_algo_java/</loc>
-    <lastmod>2023-11-15T15:49:08-05:00</lastmod>
-  </url><url>
-    <loc>https://www.hossain.cc/posts/</loc>
-    <lastmod>2023-11-15T15:49:08-05:00</lastmod>
-  </url><url>
-    <loc>https://www.hossain.cc/notes/c-programming/</loc>
-    <lastmod>2023-11-15T15:48:50-05:00</lastmod>
-  </url><url>
-    <loc>https://www.hossain.cc/posts/calculus_notes/</loc>
-    <lastmod>2023-11-15T15:48:50-05:00</lastmod>
-  </url><url>
-    <loc>https://www.hossain.cc/notes/cso/</loc>
-    <lastmod>2023-11-15T15:48:50-05:00</lastmod>
-  </url><url>
-    <loc>https://www.hossain.cc/notes/discrete-math/</loc>
-    <lastmod>2023-11-15T15:48:50-05:00</lastmod>
-  </url><url>
-    <loc>https://www.hossain.cc/posts/learn_math/</loc>
-    <lastmod>2023-11-14T21:57:41-05:00</lastmod>
-  </url><url>
     <loc>https://www.hossain.cc/about/</loc>
   </url><url>
     <loc>https://www.hossain.cc/builtwith/</loc>
@@ -50,11 +20,17 @@
   </url><url>
     <loc>https://www.hossain.cc/diy/</loc>
   </url><url>
+    <loc>https://www.hossain.cc/</loc>
+  </url><url>
     <loc>https://www.hossain.cc/leetcode/</loc>
   </url><url>
     <loc>https://www.hossain.cc/lifestyle/</loc>
   </url><url>
+    <loc>https://www.hossain.cc/notes/</loc>
+  </url><url>
     <loc>https://www.hossain.cc/opt/</loc>
+  </url><url>
+    <loc>https://www.hossain.cc/posts/</loc>
   </url><url>
     <loc>https://www.hossain.cc/tags/</loc>
   </url>

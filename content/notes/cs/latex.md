@@ -1,7 +1,7 @@
 +++
 title = 'Latex'
 date = 2023-12-31T08:53:10-05:00
-draft = false
+draft = true
 showToc =  false
 hideSummary = true
 ShowWordCount = false
