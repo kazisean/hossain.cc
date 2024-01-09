@@ -15,7 +15,7 @@ searchHidden: true
 ![Anime boy sitting in a computer lab](/single/Sitting%20in%20a%20computer%20lab.jpg)
 
 
-My collection of bookmarkes including various resources used in my notes categorized by topics 
+My collection of bookmarks including various resources used in my notes categorized by topics 
 
 ### Machine Learning
 • [Karpathy’s Machine Learning Course](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ) \
