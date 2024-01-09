@@ -1,5 +1,5 @@
 ---
-
+title: "Copyright & Tech Stack"
 showToc: false
 hideSummary: true
 ShowReadingTime: false

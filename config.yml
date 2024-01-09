@@ -14,6 +14,8 @@ minify:
   disableXML: true
   minifyOutput: true
 
+
+
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Kazi Hossain
@@ -161,3 +163,9 @@ markup:
     guessSyntax: true
     # lineNos: true
     style: monokai
+
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON # is necessary

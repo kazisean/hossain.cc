@@ -1,5 +1,5 @@
 ---
-
+title: "Miscellaneous"
 showToc: false
 hideSummary: true
 ShowReadingTime: false
@@ -13,7 +13,7 @@ hideMeta: true
 
 ![Anime boy wearing a space suit looking over at a futuristic city](/single//Anime%20nanotechnology%20boy.jpg)
 
-### Miscellaneous
+
 • 🔭 Current Project: A privacy focused lightweight browser [Clara](#) \
 • 🖥 System: [Arch Linux](#) \
 • 🪐 IDE: Learning to use [Vim](#) \

@@ -1,5 +1,5 @@
 ---
-
+title: "Projects"
 showToc: false
 hideSummary: true
 ShowReadingTime: false
