@@ -63,7 +63,7 @@ params:
     enabled: false # needs to be explicitly set
     title: Kazi Hossain
     subtitle: "Machine learning, Mathematics & Aerospace 🚀"
-    imageUrl: "https://i.pinimg.com/564x/73/8f/f2/738ff21d48adbdf664fcbc26f4cde532.jpg"
+    imageUrl: "/Kazi.png"
     imageWidth: 120
     imageHeight: 120
     imageTitle: Profile Picture of Kazi Hossain from his Personal Website and Blog 
