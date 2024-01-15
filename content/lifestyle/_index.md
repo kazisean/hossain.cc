@@ -1,4 +1,4 @@
 +++
 title = 'Lifestyle'
-description = 'Posts on fashion, decor, philosophical and self-improvement topics'
+description = 'Posts on fashion, decor and philosophical topics'
 +++
