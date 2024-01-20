@@ -1,5 +1,6 @@
 ---
 title: "Links"
+description: "Stuff I like."
 showToc: false
 hideSummary: true
 ShowReadingTime: false
@@ -15,7 +16,7 @@ searchHidden: true
 ![Anime boy sitting in a computer lab](/single/Sitting%20in%20a%20computer%20lab.jpg)
 
 
-My collection of bookmarks including various resources used in my notes categorized by topics 
+This page contains links to stuff I find interesting or useful. Categorized by topics ?!?!??
 
 ### Machine Learning
 • [Karpathy’s Machine Learning Course](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ) \
@@ -31,7 +32,7 @@ My collection of bookmarks including various resources used in my notes categori
 
 
 
-### Internship ~ Jobs
+### Internship / Jobs
 • [YC Hiring List](https://hnhiring.com/) \
 • [Summer 2024 Tech Internships](https://github.com/SimplifyJobs/Summer2024-Internships) \
 • [Crunchbase](https://www.crunchbase.com/)
