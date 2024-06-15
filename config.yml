@@ -76,7 +76,7 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "Kazi Hossain."
-    Content: Machine Learning, Aerospace and Foss enthusiast.
+    Content: Machine Learning, Reverse Engineering and Foss enthusiast.
 
   socialIcons:
     - name: cv
